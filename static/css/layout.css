@@ -45,7 +45,7 @@ h1 {
     font-size: 30px;
 }
 p {
-    color: #1d1d1d; }
+    color: #fff; }
 
 a,
 a:visited
@@ -92,7 +92,7 @@ code {
 
 
 header span {
-    color: #888;
+    color: #fff;
     font-weight: 500; }
 header span.powered-by {
     font-size: 11px;
