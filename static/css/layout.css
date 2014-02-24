@@ -18,7 +18,7 @@ time {
 .row-fluid { height: inherit; }
 
 .full_post {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #fff;
     padding: 26px 0 40px 50px;
 }
 
@@ -50,9 +50,9 @@ p {
 a,
 a:visited
 a:active{
-    color: #000;
+    color: #fff;
     text-decoration: none;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #fff;
 }
 
 a:hover {
@@ -104,11 +104,11 @@ header li {
     margin: 0 0 3px 0; }
 header li a {
     padding: 2px 0;
-    color: #888;
-    border-bottom: 2px solid #eee; }
+    color: #fff;
+    border-bottom: 2px solid #fff; }
 header li a:hover {
-    border-color: #777;
-    color: #444; }
+    border-color: #fff;
+    color: #fff; }
 
 #admin textarea, #admin pre {
     margin: 0;
