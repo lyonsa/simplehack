@@ -17,12 +17,8 @@ input, textarea {
   background: none; }
 
 body {
-  background: url(../img/red_back.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  color: #ffffff; }
+    background: #fff;
+    color: #222; }
 
 body, textarea, pre, input {
     font-family: 'Lato', Helvetica, sans-serif;
