@@ -180,7 +180,11 @@ def view_post(post_id):
         abort(404)
     
     return render_template("view.html", post=post, is_admin=is_admin(), preview=False)
-
+  
+@app.route('/about')
+def about():
+  return render_template('about.html',
+                         now=datetime.datetime.now())
 
 @app.route("/<slug>")
 def view_post_slug(slug):
